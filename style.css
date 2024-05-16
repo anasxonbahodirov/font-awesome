@@ -139,9 +139,11 @@ button:active {
     text-align: center;
     border: 1.4px solid #458ff6;
     border-radius: 55px 55px 55px 55px;
-width: 150px;
-height: 50px;
+    width: 150px;
+    height: 50px;
 }
+
+
 
 .suv1 {
 
@@ -191,7 +193,7 @@ height: 50px;
 }
 
 
-.ewq{
-height: 200px;
-width: 1185px;
+.ewq {
+    height: 200px;
+    width: 1195px;
 }
